@@ -1,0 +1,20 @@
+| A (Department) |
+| -------------- |
+| HR             |
+| IT             |
+| HR             |
+| Sales          |
+| HR             |
+| IT             |
+
+
+
+
+
+
+
+
+
+
+
+=COUNTIF(A2:A7,"HR")
