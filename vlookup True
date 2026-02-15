@@ -1,0 +1,9 @@
+=VLOOKUP(C4,A2:B5,2,TRUE)
+
+
+| A (Score From) | B (Grade) |
+| -------------- | --------- |
+| 0              | Fail      |
+| 40             | Pass      |
+| 70             | Good      |
+| 85             | Excellent |
