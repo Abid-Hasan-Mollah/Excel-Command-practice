@@ -1,0 +1,8 @@
+=VLOOKUP(A7,A2:C4,2,FALSE)
+
+
+| A (ID) | B (Name) |
+| ------ | -------- |
+| 101    | Rahim    |
+| 102    | Karim    |
+| 103    | Jui      |
