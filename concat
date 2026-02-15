@@ -1,0 +1,10 @@
+| A (First Name) | B (Last Name) |
+| -------------- | ------------- |
+| Rahim          | Khan          |
+
+
+
+
+
+
+=CONCAT(A2," ",B2)
