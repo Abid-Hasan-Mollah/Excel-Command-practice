@@ -1,0 +1,19 @@
+| A (Student) | B (Marks) |
+| ----------- | --------- |
+| Rahim       | 60        |
+| Karim       | 80        |
+| Jui         | 35        |
+| Mina        | 90        |
+
+
+
+
+
+
+
+
+
+
+
+
+=IF(D6>=40,"Pass","Fail")
