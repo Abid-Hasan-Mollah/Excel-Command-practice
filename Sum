@@ -1,0 +1,21 @@
+Problems :
+
+| A (Product) | B (Sales) |
+| ----------- | --------- |
+| Pen         | 120       |
+| Book        | 250       |
+| Pencil      | 80        |
+| Bag         | 550       |
+
+
+
+
+
+
+
+
+
+
+
+
+Solution : =SUM(B2:B5)
