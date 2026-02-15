@@ -1,0 +1,6 @@
+| A (Name) | B (ID) |
+| -------- | ------ |
+| Rahim    | 101    |
+| Karim    | 102    |
+| Jui      | 103    |
+=SUMIF(A2:C5,"IT",C2:C5)
