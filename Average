@@ -1,0 +1,10 @@
+| A (Student) | B (Marks) |
+| ----------- | --------- |
+| Rahim       | 60        |
+| Karim       | 80        |
+| Jui         | 75        |
+| Mina        | 85        |
+
+
+
+=AVERAGE(B2:B5)
